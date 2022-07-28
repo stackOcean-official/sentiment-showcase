@@ -9,35 +9,6 @@ def sentiment_analysis():
     return sentiment_analysis_model
 
 
-# sidebar
-st.sidebar.header("Anwendungsfälle")
-first_case = st.sidebar.expander("Markenanalyse")
-first_case.write(
-    "Die meisten Menschen teilen ihre Meinung über soziale Medien wie Twitter"
-    " oder Facebook. Es lohnt sich jedoch nicht für einen Menschen alle"
-    " Kommentare durchzulesen und ein Meinungsbild zu erstellen. Mit einer"
-    " Stimmungsanalyse kann dies sehr schnell und einfach erledigt werden."
-    " Ebenso kann die Entwicklung über Zeit gemessen werden"
-)
-second_case = st.sidebar.expander("Kundensupport")
-second_case.write(
-    "Das Management von Kundensupportanfragen kann Herausforderungen mit sich"
-    " bringen. Die richtige Priorisierung und Zuteilung können sich als"
-    " schwierig erweisen. Dies ist mit einer Stimmungsanalyse insbesondere in"
-    " Kombination mit einer Themenextraktion sehr einfach zu bewältigen."
-)
-third_case = st.sidebar.expander("Marktanalyse")
-third_case.write(
-    "Der Markt wandelt sich schneller als je zuvor. Um aktuell zu bleiben ist"
-    " es wichtig herauszufinden was gerade gut ankommt oder welcher Konkurrent"
-    " wie da steht. Dies kann man mit einer Stimmungsanalyse gut herausfinden."
-    " Ebenso kann man den Erfolg von Markteting-Kampagnen messen"
-)
-fourth_case = st.sidebar.expander("Produktanalyse")
-fourth_case.write(
-    "Besonders gepaart mit anderen Daten wie z.B. demografischen "
-)
-
 # main page
 st.title("Stimmungsanalyse")
 explanation = st.expander("Wie funktioniert es?")
