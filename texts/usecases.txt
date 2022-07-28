@@ -15,7 +15,4 @@ Marktanalyse
     Der Markt wandelt sich schneller als je zuvor. Um aktuell zu bleiben ist
     es wichtig herauszufinden was gerade gut ankommt oder welcher Konkurrent
     wie da steht. Dies kann man mit einer Stimmungsanalyse gut herausfinden.
-    Ebenso kann man den Erfolg von Markteting-Kampagnen messen
-    
-Produktanalyse
-    Besonders gepaart mit anderen Daten wie z.B. demografischen
+    Ebenso kann man den Erfolg von Markteting-Kampagnen messen 
