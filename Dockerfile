@@ -12,7 +12,6 @@ RUN /opt/venv/bin/pip install -r requirements.txt
 # Copy the code, model & streamlit repositories
 ADD .streamlit .streamlit
 ADD src src
-ADD model model
 
 EXPOSE 8501
 
