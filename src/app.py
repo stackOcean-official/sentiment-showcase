@@ -51,3 +51,14 @@ if compute:
             f"Ergebnis: {output_label}, Zuversicht:"
             f" {round(output[0]['score'] * 100, 2)}%"
         )
+
+
+# remove menu for production
+hide_streamlit_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+</style>
+
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
