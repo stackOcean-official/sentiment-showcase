@@ -17,8 +17,8 @@ explanation.write(
     " neutral oder negativ gemeint ist. Dazu liefert es einen prozentualen"
     " Wert, der aussagt, wie sicher sich das Modell bei seinem Ergebnis ist."
 )
-what_else = st.expander("Was kann man noch machen?")
-explanation.write(
+what_else = st.expander("Was wäre der nächste Schritt?")
+what_else.write(
     "Weitere Schritte, die man angehen könnte, wären, dass man das Thema des"
     " Satzes mit herausfiltert (Themenextraktion) oder die genaue Emotion"
     " erkennt."

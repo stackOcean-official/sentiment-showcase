@@ -1,0 +1,6 @@
+Stimmungsanalyse mit KI
+
+Eine Stimmungsanalyse kann sehr einfach große Mengen an Text verarbeiten. Wenn man also ein Meinungsbild über ein Produkt, 
+eine Marke oder einfach ein Stichwort haben möchte, muss man seine gesammelten Daten nur danach filtern und von der KI auswerten lassen.
+
+Zur Demonstration, haben wir hier ein Modell zur Verfügung gestellt, dass einen kleinen Text analysiert. Der Algorithmus kann auch dafür verwendet werden längere oder mehrere Texte Satz für Satz zu analysieren.
