@@ -1,6 +1,6 @@
-# python-streamlit-docker-sample
+# sentiment-showcase
 
-Sample Deployment of a Python Machine-Learning Model with Streamlit UI using Docker
+Sample Deployment of a Sentiment Analysis Model with Streamlit UI using Docker and HuggingFace
 
 ---
 
