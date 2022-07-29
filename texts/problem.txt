@@ -4,7 +4,7 @@ Es ist für jedes Unternehmen wichtig sich einen Marktvorteil zu erarbeiten. Die
 
 Die öffentliche Meinung zu Produkten ist beispielsweise in Textdaten, die auf Social-Media Plattformen wie Twitter, Facebook und Reddit veröffentlicht werden, enthalten. 
 
-Bei so großen Mengen an Textdaten ist es absolut unwirtschaftlich diese Daten manuell auszuwerten. Allerdings können diese Textdaten als Input für eine Stimmungs- oder auf Englisch Sentimemt-Analyse verwendet werden. 
+Bei so großen Mengen an Textdaten ist es absolut unwirtschaftlich diese Daten manuell auszuwerten. Allerdings können diese Textdaten als Input für eine Stimmungs- oder auf Englisch Sentiment-Analyse verwendet werden. 
 
 
 
