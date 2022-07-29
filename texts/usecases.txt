@@ -1,5 +1,11 @@
-- Priorisierung von Kundensupport
+Dieses Modell lässt sich auch einfach auf andere Problemstellungen übertragen.
 
-- Mitarbeiterzufriedenheit
+- Priorisierung und Bildung einer Reihenfolge im Kundensupport
+
+- Erfassung von Mitarbeiterzufriedenheit aus Befragungen 
+
+- Automatisierte Auswertung von Freitextfeldern in Umfragen 
+
+- Feststellung von Meinungsentwicklung über Zeit 
 
 

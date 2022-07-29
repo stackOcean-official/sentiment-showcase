@@ -4,7 +4,7 @@ Es ist für jedes Unternehmen wichtig sich einen Marktvorteil zu erarbeiten. Die
 
 Die öffentliche Meinung zu Produkten ist beispielsweise in Textdaten, die auf Social-Media Plattformen wie Twitter, Facebook und Reddit veröffentlicht werden, enthalten. 
 
-Diese Textdaten können als Input für eine Stimmungs- oder auf Englisch Sentimemt-Analyse verwendet werden (Mehr dazu im Solution Text). Damit ist es möglich enorme Mengen an Textdaten von einem KI Modell in kurzer Zeit auswerten zu lassen, für die ein Mensch im Zweifel mehrere Monate brauchen würde. 
+Bei so großen Mengen an Textdaten ist es absolut unwirtschaftlich diese Daten manuell auszuwerten. Allerdings können diese Textdaten als Input für eine Stimmungs- oder auf Englisch Sentimemt-Analyse verwendet werden. 
 
 
 
