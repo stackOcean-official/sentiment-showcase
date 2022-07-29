@@ -1,5 +1,10 @@
 Markt und Meinungsforschung
 
-Das Internet und soziale Medien bieten sowohl Herausforderungen als auch Möglichkeiten. Wenn es darum geht herauszufinden, wie gut ein Produkt angenommen wird, 
-ein mögliches Produkt angenommen würde, welchen Ruf die eigene Marke in der Öffentlichekeit hat oder einfach nur welches die aktuellen Trends sind, wird es die notwendigen Daten mit hoher Wahrscheinlichkeit geben.
-Die Herausforderung hierbei ist, dass es bei der Menge absolut unwirtschaflich ist, dies manuell auszuwerten.
+Es ist für jedes Unternehmen wichtig sich einen Marktvorteil zu erarbeiten. Dies kann zum Beispiel dadurch geschehen, dass ein Unternehmen weiß, wie gut die eigenen Produkte oder die Produkte der Konkurrenz angenommen werden.
+
+Die öffentliche Meinung zu Produkten ist beispielsweise in Textdaten, die auf Social-Media Plattformen wie Twitter, Facebook und Reddit veröffentlicht werden, enthalten. 
+
+Diese Textdaten können als Input für eine Stimmungs- oder auf Englisch Sentimemt-Analyse verwendet werden (Mehr dazu im Solution Text). Damit ist es möglich enorme Mengen an Textdaten von einem KI Modell in kurzer Zeit auswerten zu lassen, für die ein Mensch im Zweifel mehrere Monate brauchen würde. 
+
+
+
