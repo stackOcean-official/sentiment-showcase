@@ -9,7 +9,7 @@ RUN python3 -m venv /opt/venv
 
 RUN /opt/venv/bin/pip install -r requirements.txt
 
-# Copy the code, model & streamlit repositories
+# Copy the code, streamlit repositories
 ADD .streamlit .streamlit
 ADD src src
 
