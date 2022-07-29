@@ -9,22 +9,6 @@ def sentiment_analysis():
     return sentiment_analysis_model
 
 
-# main page
-st.title("Stimmungsanalyse")
-explanation = st.expander("Wie funktioniert es?")
-explanation.write(
-    "Bei einer Stimmungsanalyse analysiert das Modell ob ein Satz positiv,"
-    " neutral oder negativ gemeint ist. Dazu liefert es einen prozentualen"
-    " Wert, der aussagt, wie sicher sich das Modell bei seinem Ergebnis ist."
-)
-what_else = st.expander("Was wäre der nächste Schritt?")
-what_else.write(
-    "Weitere Schritte, die man angehen könnte, wären, dass man das Thema des"
-    " Satzes mit herausfiltert (Themenextraktion) oder die genaue Emotion"
-    " erkennt."
-)
-
-
 sample_input = (
     "Erst hat die Lieferung ewig gedauert und dann war es auch noch das"
     " falsche Produkt. Großartig!"
